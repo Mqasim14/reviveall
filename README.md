@@ -1,6 +1,6 @@
 # reviveall
 
-reviveall is an plugin for ESX with features:
+Reviveall is an plugin for FiveM [ESX] with features:
 
 - Allows You To Revive All Dead Players
 
