@@ -22,7 +22,7 @@ git clone https://github.com/Mqasim14/reviveall [esx]/reviveall
 ```
 
 ### Manually
-- Download https://github.com/Mqasim14/reviveall/archive/master.zip
+- Download https://github.com/Mqasim14/reviveall.git
 - Put it in the `[esx]` directory
 
 ## Installation
