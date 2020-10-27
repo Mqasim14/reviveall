@@ -7,6 +7,8 @@ Reviveall is an plugin for FiveM [ESX] with features:
 ## Requirements
 
    - [esx_ambulancejob](https://github.com/esx-framework/esx_ambulancejob)
+   
+## https://discord.gg/jsARZZQ For More Scripts Like This
 
 ## Download & Installation
 
