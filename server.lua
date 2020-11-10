@@ -5,7 +5,7 @@ local savedCoords   = {}
 local warnedPlayers = {}
 local deadPlayers   = {}
 
-
+TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 RegisterCommand("reviveall", function(source, args, rawCommand)	-- reviveall (can be used from console)
 	canRevive = false
